@@ -3,6 +3,7 @@
 ## Project 4, Vehicle Stats Viewer:
 
 This app is an interactive data visualizer for the provided vehicle dataset.
+
 Libraries utilized: *pandas*,  *streamlit*,  *plotly_express*.
 
 The user is able to search and filter vehicles according to the specific data columns provided.
