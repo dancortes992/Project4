@@ -1,6 +1,6 @@
 # Project4
 
-## Project 4, Vehicle Stats Viewer:
+## Vehicle Stats Viewer:
 
 This app is an interactive data visualizer for the provided vehicle dataset.
 
