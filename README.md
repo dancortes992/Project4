@@ -14,3 +14,7 @@ In addition there are several vehicle stats charts provided which include:
 - Vehicle Year vs. price scatterplot.
 
 Each of these has charts can be filtered by clicking on the colored categories that are to be filtered out for better visualization of the data.
+ 
+To run app locally clone repository from [Vehicle Stats Viewer](https://github.com/dancortes992/Project4.git)
+
+Render URL:
