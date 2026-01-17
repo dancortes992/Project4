@@ -2,7 +2,8 @@
 
 This app is an interactive data visualizer for the provided vehicle dataset.
 
-Libraries utilized: *pandas*,  *streamlit*,  *plotly_express*.
+Libraries: *pandas*, *matplotlib*, *plotly_express*.
+Tools/software: *streamlit*, *render*
 
 The user is able to search and filter vehicles according to the specific data columns provided.
 In addition there are several vehicle stats charts provided which include:
