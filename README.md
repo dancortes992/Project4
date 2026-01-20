@@ -1,8 +1,9 @@
-## Vehicle Stats Visualizer:
+## Vehicle Stats Visualizer
 
 This app is an interactive data visualizer for the provided vehicle dataset as part of the **Tripleten** data science bootcamp practicum.
 
 ### Description
+
 
 This project was created in render cloud application services and constructed using streamlit framework. The user is able to search and filter vehicles according to the specific data columns provided.
 In addition there are several vehicle stats charts provided which include:
